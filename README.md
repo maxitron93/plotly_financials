@@ -1,5 +1,5 @@
 # Interactive stock price chart
-## [Interactive visualization](https://plotly-cars.herokuapp.com/)
+## [Interactive visualization](https://plotly-financials.herokuapp.com/)
 ### Follow along project from a [udemy course](https://www.udemy.com/interactive-python-dashboards-with-plotly-and-dash/)
-![Car Feature Relationship Scatter Plot](./screenshot1.png)
-![Car Feature Relationship Scatter Plot](./screenshot2.png)
+![Interactive stock price chart](./screenshot1.png)
+![Interactive stock price chart](./screenshot2.png)
