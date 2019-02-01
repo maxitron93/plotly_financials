@@ -8,7 +8,7 @@ import pandas as pd
 
 # Initialize the app
 app = dash.Dash()
-server = app.Server
+server = app.server
 
 # Create list of company tickers for drop down input
 nsdq = pd.read_csv('NASDAQcompanylist.csv')
